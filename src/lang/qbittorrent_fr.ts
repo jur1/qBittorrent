@@ -2239,7 +2239,7 @@ Voulez-vous associer qBittorrent aux fichiers torrent et liens magnet ?</transl
     <message>
         <location filename="../gui/mainwindow.cpp" line="896"/>
         <source>&amp;Always Yes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Toujours Oui</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1379"/>
